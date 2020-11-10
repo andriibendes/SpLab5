@@ -1,0 +1,7 @@
+﻿#S# #B# #S# aa
+#S# bb
+#B#  mm
+#B#  mm aa
+#B#  rr aa
+!
+
